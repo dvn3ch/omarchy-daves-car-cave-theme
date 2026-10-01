@@ -6,6 +6,12 @@ A red, white and blue [Omarchy](https://omarchy.org) theme taken from the
 [Dave's Car Cave](https://davescarcave.com) logo, with 13 wallpapers of classic
 1960s–80s muscle cars and a few legendary exotics.
 
+## Showcase
+
+![btop, Neovim and fastfetch in the Dave's Car Cave theme over the 1970 Boss 302 wallpaper](showcase.png)
+
+*btop, Neovim and fastfetch on Omarchy, over the 1970 Mustang Boss 302 wallpaper.*
+
 ## Install
 
 ```
