@@ -1,11 +1,12 @@
 # Dave's Car Cave: colors from the Dave's Car Cave logo (davescarcave.com).
 # Logo: navy #031033, white #F9FAF9, red #CA3A40, blue #1B6BCA,
 # slate #33314F, silver #B1AAB4, steel #758CAF. Other colors are filled in to match.
+# muted is the logo slate lifted (#33314f -> #6b7596) so comments stay readable.
 mode = "dark"
 
 accent = "#ca3a40"
 selection = "#24427a"
-muted = "#33314f"
+muted = "#6b7596"
 
 background = "#0b1838"
 dark_background = "#07122c"

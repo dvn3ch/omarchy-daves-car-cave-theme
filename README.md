@@ -29,7 +29,7 @@ Or use the Omarchy menu: **Install → Style → Theme**, and paste the URL abov
 | Text | `#e6e8ee` / `#f9faf9` | logo white |
 | Accent | `#ca3a40` | logo red ("CAR CAVE" banner) |
 | Blue | `#1b6bca` | logo blue |
-| Muted | `#33314f` / `#758caf` / `#b1aab4` | logo slate, steel, silver |
+| Muted | `#6b7596` / `#758caf` / `#b1aab4` | logo slate (lifted for contrast), steel, silver |
 
 Yellow, orange, green, cyan and magenta were added to complete the terminal
 palette in the same style. Icons use Yaru-red.
