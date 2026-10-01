@@ -3,7 +3,7 @@
 ![Dave's Car Cave theme preview](preview.png)
 
 A red, white and blue [Omarchy](https://omarchy.org) theme taken from the
-[Dave's Car Cave](https://davescarcave.com) logo, with 12 wallpapers of classic
+[Dave's Car Cave](https://davescarcave.com) logo, with 13 wallpapers of classic
 1960s–80s muscle cars and a few legendary exotics.
 
 ## Install
@@ -32,12 +32,13 @@ palette in the same style. Icons use Yaru-red.
 
 | | |
 |---|---|
-| 1969 Dodge Charger | 1970 Dodge Challenger R/T |
+| 1968 Dodge Charger | 1970 Dodge Challenger R/T |
 | 1970 Dodge Challenger | 1970 Chevrolet Chevelle SS |
 | 1969 Chevrolet Camaro Z/28 RS | 1963 Corvette Sting Ray split-window |
 | 1967 Shelby Mustang GT500 | 1969 Mustang Boss 302 at Goodwood |
 | 1970 Mustang Boss 302 | Ford GT40 (Gulf livery) |
 | 1970 Lamborghini Miura P400 S | Ferrari 250 GTO |
+| 1987 Porsche 911 Turbo 3.3 | |
 
 Cycle through them with `omarchy theme bg next`.
 
